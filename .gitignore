@@ -1,0 +1,20 @@
+# User-specific resume input (gitignored; provide your own resume.md)
+resume.md
+
+# Generated PDF output
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
