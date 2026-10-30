@@ -13,9 +13,9 @@
   "url_color": "#0066CC",
   "text_color": "#1a1a1a",
   "secondary_color": "#0E1015",
-  "margin_left": 7,
-  "margin_right": 0,
-  "margin_top": 0,
+  "margin_left": 20,
+  "margin_right": 20,
+  "margin_top": 20,
   "margin_bottom": 0,
 }
 ---
